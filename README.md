@@ -1,3 +1,3 @@
-# Poppy-s-Top-Dog
-Restaurant 
+# new-challenge
+My-Life
 I started to study a software development online in Team Tree House, Code Academy, W3school and Udemy websites about a year ago.  I studied HTML5, CSS3,  Bootstrap, Express, JavaScript,  JQuery, NodeJS, PassportJS,  MongoDB, Semantic UI, WordPress,  and some knowledge of MySQL, C# and .NET.  I built a few projects but still local and I built another project using WordPress, It is calling http://www.webtoolss.wordpress.com but still working on it.  My ambitions are to be a software developer.  I would like the opportunity to work for you all as a web developer/software developer to gain more experience.  I am willing to relocate, learn and  work as a part of a team.  Please consider me as a part of the company's team, because I have a lot of energy to improve the company performance, and be valuable for the company.
